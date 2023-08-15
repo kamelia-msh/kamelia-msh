@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kamelia-msh
+- 👋 Hi, I’m kamelia-msh
 - 👀 I’m interested in hack
 - 🌱 I’m currently learning pythone
 <!---
